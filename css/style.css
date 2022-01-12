@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.secao_negocio{
+    background: rgba(59,3,3,255);
+}
+.secao_negocio_p1{
+    color: black;
+}
+.secao_drinks{
+    background: rgba(244,99,18,255);
+}
+.secao_cardapio{
+    background: #1f0202;
+}
+.section_rodape{
+    background: rgba(17,18,18,255);
+}
+.whatsapp_flutuante{
+    width: 100px;
+    height: 100px;
+    margin: 15px;
+    background: chartreuse;
+    border-radius: 50%;
+    float: rightd;
+}
+.navbar{
+    height: 80px;
+}
+.item1,.item2,.item3{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+.item1:hover,.item2:hover,.item3:hover{
+    border-top: 2px solid rgba(244,99,18,255);
+    border-bottom:2px solid rgba(244,99,18,255);
+}
+.foto_logo{
+    position: relative;
+    top: 10px;
+}
+.marca{
+    font-size: 20px;
+    font-weight: 650;
+    color:#3f0905;
+    position: relative;
+    top: 10px;
+}
+.marca1{
+    color:#a86129;
+}
