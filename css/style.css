@@ -17,14 +17,7 @@
 .section_rodape{
     background: rgba(17,18,18,255);
 }
-.whatsapp_flutuante{
-    width: 100px;
-    height: 100px;
-    margin: 15px;
-    background: chartreuse;
-    border-radius: 50%;
-    float: rightd;
-}
+
 .navbar{
     height: 85px;
 }
