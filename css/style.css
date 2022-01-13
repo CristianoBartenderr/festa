@@ -12,7 +12,11 @@
     background: rgba(244,99,18,255);
 }
 .secao_cardapio{
+    font-family: 'Courgette', cursive;
     background: #1f0202;
+}
+.cardapio_nome_bedida{
+    font-size: 22px;
 }
 .section_rodape{
     background: rgba(17,18,18,255);
