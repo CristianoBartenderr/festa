@@ -15,6 +15,7 @@
     font-family: 'Courgette', cursive;
     background: #1f0202;
 }
+
 .cardapio_nome_bedida{
     font-size: 22px;
 }
@@ -57,5 +58,12 @@
         font-size: 15px;
         padding: 0px;
         
+    }
+    
+}
+@media(min-width: 150px) and (max-width:490px) {
+    .img{
+        position: relative;
+        right: 40px;
     }
 }
