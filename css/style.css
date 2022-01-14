@@ -46,8 +46,34 @@
     position: relative;
     top: 10px;
 }
-.marca1{
+.marca1,.brand_rodape_nome_bar{
+    font-size: 20px;
+    font-weight: 650;
     color:#a86129;
+}
+.brand_rodape_nome{
+    font-size: 20px;
+    font-weight: 650;
+    color:#3f0905;
+}
+.fab,.fa-map-marker-alt,.fa-envelope{
+	font-size: 30px;
+}
+.fa-desktop,.fa-cogs,.fa-mobile-alt{
+	font-size: 100px;
+	color:#AAD922;
+}
+.email{
+	font-size:17px; 
+}
+.whatsapp{
+	font-size: 16px;
+}
+.link_rodape{
+    color: beige;
+}
+.link_rodape:hover{
+    color: beige;
 }
 
 @media(min-width: 150px) and (max-width:990px) {
