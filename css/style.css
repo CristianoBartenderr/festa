@@ -10,6 +10,10 @@
 }
 .secao_drinks{
     background: rgba(244,99,18,255);
+    font-family: 'Courgette', cursive;
+}
+.t1_drinks,.t2_drinks{
+    color: black;
 }
 .secao_cardapio{
     font-family: 'Courgette', cursive;
