@@ -5,12 +5,22 @@
 .secao_negocio{
     background: rgba(59,3,3,255);
 }
-.secao_negocio_p1{
+.secao_drinks_p1{
     color: black;
 }
 .secao_drinks{
     background: rgba(244,99,18,255);
     font-family: 'Courgette', cursive;
+}
+.secao_drinks_foto{
+    width: 450px;
+    height: 350px;
+}
+.foto_1{
+    display: block;
+}
+.foto_2{
+    display: none;
 }
 .t1_drinks,.t2_drinks{
     color: black;
@@ -95,5 +105,13 @@
     .img{
         position: relative;
         right: 40px;
+    }
+}
+@media(min-width: 160px) and (max-width:580px) {
+    .foto_1{
+        display: none;
+    }
+    .foto_2{
+        display: block;
     }
 }
