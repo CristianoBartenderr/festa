@@ -89,6 +89,9 @@
 .link_rodape:hover{
     color: beige;
 }
+u{
+    text-decoration:underline;
+}
 
 @media(min-width: 150px) and (max-width:990px) {
     .navbar{
@@ -113,5 +116,8 @@
     }
     .foto_2{
         display: block;
+    }
+    u{
+        text-decoration:none;
     }
 }
