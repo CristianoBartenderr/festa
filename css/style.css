@@ -29,7 +29,6 @@
     font-family: 'Courgette', cursive;
     background: #1f0202;
 }
-
 .cardapio_nome_bedida{
     font-size: 22px;
 }
@@ -69,6 +68,9 @@
     font-size: 20px;
     font-weight: 650;
     color:#3f0905;
+}
+.text_slide{
+    font-weight:750 ;
 }
 .fab,.fa-map-marker-alt,.fa-envelope{
 	font-size: 30px;
