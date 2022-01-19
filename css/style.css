@@ -5,6 +5,11 @@
 .secao_negocio{
     background: rgba(59,3,3,255);
 }
+.secao_negocio_foto{
+    width:450px;
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px gray;
+}
 .secao_drinks_p1{
     color: black;
 }
@@ -15,6 +20,8 @@
 .secao_drinks_foto{
     width: 450px;
     height: 350px;
+    border-radius: 35px;
+    box-shadow: 5px 5px 5px;
 }
 .foto_1{
     display: block;
