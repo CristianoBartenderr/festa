@@ -91,6 +91,22 @@
 .link_rodape:hover{
     color: beige;
 }
+.marca_asfuture-div{
+    width: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.marca_asf_div_centralizar{
+    padding: 10px;
+}
+.marca_asfuture{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    border-top: 2px solid #0000FF;
+    border-bottom: 2px solid #0000FF;
+}
 u{
     text-decoration:underline;
 }
