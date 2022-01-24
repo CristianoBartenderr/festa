@@ -53,6 +53,11 @@
 .cardapio_nome_bedida{
     font-size: 22px;
 }
+.section_eventos{
+    background: hsl(0, 24%, 93%);
+    font-family: 'Courgette', cursive;
+    
+}
 .section_rodape{
     background: rgba(17,18,18,255);
 }
